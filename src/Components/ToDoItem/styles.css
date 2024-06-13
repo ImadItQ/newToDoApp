@@ -1,0 +1,11 @@
+.toDoitem{
+    display: flex;
+    cursor: pointer;
+    width:400px;
+    align-items: flex-start;
+    height: auto;
+    padding:10px;
+    margin: 20px;
+    color: black;
+    font-size: larger;
+}

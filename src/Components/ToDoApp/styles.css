@@ -1,0 +1,34 @@
+.app{
+    display: flex;
+    margin: 0;
+    padding:0;
+    height: 100%;
+    width: 100%;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.input-field{
+    justify-content: center;
+    align-items: center;
+}
+
+.input-box{
+    width:400px;
+    height: auto;
+    padding:10px;
+    margin: auto;
+}
+
+.button{
+    width: 80px;
+    height:auto;
+    padding:5px;
+    font-size: larger;
+    margin-left: 10px;
+    border-radius: 5px;
+    text-align: center;
+    color: white;
+    background-color: cornflowerblue;
+}
